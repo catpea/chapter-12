@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Pardon My Turkey; Or, An XML Thanksgiving](docs/poem-1733.mp3)
 - [Gym Machines Are Just Not That Good For You](docs/poem-1732.mp3)
 - [Bodybuilding For Babies](docs/poem-1731.mp3)
 
