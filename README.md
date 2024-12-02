@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Adult](docs/poem-1736.mp3)
 - [Volition, Virtue, And Pursuits Of Excellence](docs/poem-1735.mp3)
 - [The Tokenizer and Lexer Story; Or, A Closer Look At XML Shenanigans](docs/poem-1734.mp3)
 - [Pardon My Turkey; Or, An XML Thanksgiving](docs/poem-1733.mp3)
