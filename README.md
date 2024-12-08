@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Reliable Bodybuilding In 3 Steps; Or, The Three Phases And Then, Life](docs/poem-1742.mp3)
 - [A Programming Story](docs/poem-1741.mp3)
 - [War Of Art; Or, The Explosive Birth Of An Artist](docs/poem-1740.mp3)
 - [Bodybuilding: An Explanation So Simple, That Even A Cat Can Do It!](docs/poem-1739.mp3)
