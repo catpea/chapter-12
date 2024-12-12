@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Programmers Don’t Always Publish Their Inventions](docs/poem-1746.mp3)
 - [Does The Gym Hurt?](docs/poem-1745.mp3)
 - [The Power Of Disadvantage; Or, Never Too Fat, Or, Too Ugly, Or Old](docs/poem-1744.mp3)
 - [Mind Your Mind](docs/poem-1743.mp3)
