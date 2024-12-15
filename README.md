@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [My Strange Little Caturday Mornings](docs/poem-1749.mp3)
 - [Bodybuilding](docs/poem-1748.mp3)
 - [Modern Talking; Or, How AI Is Helping Me Jump Ahead Of Myself](docs/poem-1747.mp3)
 - [Programmers Don’t Always Publish Their Inventions](docs/poem-1746.mp3)
