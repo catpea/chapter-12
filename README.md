@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Become An Intellectual; Don’t Wait For Knowledge, You Have To Learn On Your Own](docs/poem-1751.mp3)
 - [Yes You Can; Or, Explosive Workouts For Golden Ladies](docs/poem-1750.mp3)
 - [My Strange Little Caturday Mornings](docs/poem-1749.mp3)
 - [Bodybuilding](docs/poem-1748.mp3)
