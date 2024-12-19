@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Conscience of a Hacker (Hacker Manifesto) Reaction](docs/poem-1753.mp3)
 - [Unlocking Artificial Intelligence](docs/poem-1752.mp3)
 - [Become An Intellectual; Don’t Wait For Knowledge, You Have To Learn On Your Own](docs/poem-1751.mp3)
 - [Yes You Can; Or, Explosive Workouts For Golden Ladies](docs/poem-1750.mp3)
