@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Empowerment](docs/poem-1758.mp3)
 - [You Will Find No Tribe, Other Than The State Of Gibberish](docs/poem-1757.mp3)
 - [Protect Your Genius](docs/poem-1756.mp3)
 - [Bodybuilding For The Elderly](docs/poem-1755.mp3)
