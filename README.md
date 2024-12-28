@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [How My Plan To Drop Out Of Middle School, Join The Legion & Become A Stuntman Is Totally Working Out](docs/poem-1762.mp3)
 - [Fitness: Use An Interval Timer As A Personal Trainer, And Beats Of Songs For Tempo](docs/poem-1761.mp3)
 - [Beautiful Weight Loss & Fitness; Or, The Best New Year Resolution](docs/poem-1760.mp3)
 - [How To Workout At The Gym? A Simple Fitness & Bodybuilding Formula](docs/poem-1759.mp3)
