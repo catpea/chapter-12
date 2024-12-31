@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Learning Programming, Yas, But Programming Is Also Learning](docs/poem-1765.mp3)
 - [Grow Up Fast, Grow Up Now: Programming, Philosophy & Adventure](docs/poem-1764.mp3)
 - [JavaScript Wild!](docs/poem-1763.mp3)
 - [How My Plan To Drop Out Of Middle School, Join The Legion & Become A Stuntman Is Totally Working Out](docs/poem-1762.mp3)
