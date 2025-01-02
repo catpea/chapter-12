@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Don't Lift Heavy, A Proper Workout Is Non-Stop: Instructions On How To Do It Right](docs/poem-1767.mp3)
 - [Neat New Year Resolutions](docs/poem-1766.mp3)
 - [Learning Programming, Yas, But Programming Is Also Learning](docs/poem-1765.mp3)
 - [Grow Up Fast, Grow Up Now: Programming, Philosophy & Adventure](docs/poem-1764.mp3)
