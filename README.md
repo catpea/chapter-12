@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Perfectly Genius; Or, Don’t Let School Make You Feel Dumb](docs/poem-1771.mp3)
 - [The Three Letters About Learning](docs/poem-1770.mp3)
 - [Don't Let School Ruin Your Life](docs/poem-1769.mp3)
 - [Earth Beneath Your Feet; A Message To All People](docs/poem-1768.mp3)
