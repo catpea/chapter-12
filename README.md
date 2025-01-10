@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Midnight Hour](docs/poem-1775.mp3)
 - [Workout Tempo](docs/poem-1774.mp3)
 - [A Simple, Integrated Focus Workout; And, How To Correctly Configure Your Interval Timer](docs/poem-1773.mp3)
 - [JavaScript Is Cute And Flexible](docs/poem-1772.mp3)
