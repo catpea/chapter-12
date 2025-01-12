@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Six Months A Year; Or, Do Not Forget About Yourself](docs/poem-1777.mp3)
 - [To Get A Fire Going](docs/poem-1776.mp3)
 - [Midnight Hour](docs/poem-1775.mp3)
 - [Workout Tempo](docs/poem-1774.mp3)
