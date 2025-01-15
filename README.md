@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Get Fancy](docs/poem-1780.mp3)
 - [Bodybuilding Warning: You Are Lifting Too Heavy, Simply Cutting Off Your Circulation](docs/poem-1779.mp3)
 - [Learn JavaScript, And Don’t Use Frameworks](docs/poem-1778.mp3)
 - [Six Months A Year; Or, Do Not Forget About Yourself](docs/poem-1777.mp3)
