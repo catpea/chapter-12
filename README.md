@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Going Buff](docs/poem-1782.mp3)
 - [But Isn’t Camping In The Woods Boring?](docs/poem-1781.mp3)
 - [Get Fancy](docs/poem-1780.mp3)
 - [Bodybuilding Warning: You Are Lifting Too Heavy, Simply Cutting Off Your Circulation](docs/poem-1779.mp3)
