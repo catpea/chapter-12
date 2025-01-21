@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Gently Easing Yourself Into Camping And Hiking](docs/poem-1786.mp3)
 - [combineLatest; Or, Please Learn Programming And Build A Visual Programming Language](docs/poem-1785.mp3)
 - [Programming Frosty Michigan Nights](docs/poem-1784.mp3)
 - [Fun Fitness](docs/poem-1783.mp3)
