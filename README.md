@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Bodybuilder Focus And Music Trance, An Ancient Warrior Trick](docs/poem-1788.mp3)
 - [It Is Really Not Even That Cold, Maybe You Are Just Getting Old; And, The Great Remedy For Old Age](docs/poem-1787.mp3)
 - [Gently Easing Yourself Into Camping And Hiking](docs/poem-1786.mp3)
 - [combineLatest; Or, Please Learn Programming And Build A Visual Programming Language](docs/poem-1785.mp3)
