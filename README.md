@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Are You A Creature Of The Stars? A Very Easy Test](docs/poem-1791.mp3)
 - [Treat Standardized Education The Way It Treats You](docs/poem-1790.mp3)
 - [Bodybuilding: How To Lift For A Long Time? Or, Introduction To Interval Timers](docs/poem-1789.mp3)
 - [Bodybuilder Focus And Music Trance, An Ancient Warrior Trick](docs/poem-1788.mp3)
