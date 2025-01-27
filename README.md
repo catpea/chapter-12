@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Vanilla; Or, Programming JavaScript Without The Use Of Frameworks](docs/poem-1792.mp3)
 - [Are You A Creature Of The Stars? A Very Easy Test](docs/poem-1791.mp3)
 - [Treat Standardized Education The Way It Treats You](docs/poem-1790.mp3)
 - [Bodybuilding: How To Lift For A Long Time? Or, Introduction To Interval Timers](docs/poem-1789.mp3)
