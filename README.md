@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Program Wild And Scary! Apologize For Nothing](docs/poem-1794.mp3)
 - [You Must Become A Little Philosopher](docs/poem-1793.mp3)
 - [Vanilla; Or, Programming JavaScript Without The Use Of Frameworks](docs/poem-1792.mp3)
 - [Are You A Creature Of The Stars? A Very Easy Test](docs/poem-1791.mp3)
