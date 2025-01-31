@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Asking AI About Learning Programming](docs/poem-1796.mp3)
 - [Advice For Growing Up: Don’t Let Adults Make You Bored](docs/poem-1795.mp3)
 - [Program Wild And Scary! Apologize For Nothing](docs/poem-1794.mp3)
 - [You Must Become A Little Philosopher](docs/poem-1793.mp3)
