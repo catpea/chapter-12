@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Gerbil Trouble On The Double](docs/poem-1799.mp3)
 - [Bodybuilding Is No Big Deal; But, Not Bodybuilding, Is](docs/poem-1798.mp3)
 - [Three Types Of Savants, And How To Become One](docs/poem-1797.mp3)
 - [Asking AI About Learning Programming](docs/poem-1796.mp3)
