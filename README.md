@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Don’t Start Your Fitness Journey At The Gym](docs/poem-1804.mp3)
 - [A Look Back at 2025](docs/poem-1803.mp3)
 - [switchMap? Why Not Restart Observable? - A Tiny Snark Free Jamboree](docs/poem-1802.mp3)
 - [Fitness And Bodybuilding For Girls](docs/poem-1801.mp3)
