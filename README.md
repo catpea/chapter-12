@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Slayer; A Programmer's Lament](docs/poem-1809.mp3)
 - [The Measuring Stick; Or, A Way To Tell If Your Exercise Is Effective](docs/poem-1808.mp3)
 - [Modern Culture](docs/poem-1807.mp3)
 - [How To Make Your Workout More Effective Without Making It More Difficult](docs/poem-1806.mp3)
