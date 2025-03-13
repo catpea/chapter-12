@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Lords Of Purr; Or, What Does Your Cat Think About Your Exercise?](docs/poem-1837.mp3)
 - [Fast Fitness For Ladies](docs/poem-1836.mp3)
 - [Becoming Adventure](docs/poem-1835.mp3)
 - [Use Jogging To Understand Bodybuilding](docs/poem-1834.mp3)
