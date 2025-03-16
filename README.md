@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Dumbbells](docs/poem-1840.mp3)
 - [Fitness Advice: “Sets And Reps” Are A Lie, Use The Keyhole Method](docs/poem-1839.mp3)
 - [Six Days Until Spring](docs/poem-1838.mp3)
 - [Lords Of Purr; Or, What Does Your Cat Think About Your Exercise?](docs/poem-1837.mp3)
