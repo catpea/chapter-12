@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Pairing Your Outfit And Perfume For The Gym](docs/poem-1851.mp3)
 - [Glass Half Full, Grasshopper](docs/poem-1850.mp3)
 - [Just Two Numbers; Or, Easy Peasy Data Synchronization For The Rest Of Us](docs/poem-1849.mp3)
 - [What If Programming Is Everything?](docs/poem-1848.mp3)
