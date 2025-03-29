@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Don't Let Fake Education Get To You](docs/poem-1853.mp3)
 - [You Are Not A Worker, Or; For All The Good That Is Left](docs/poem-1852.mp3)
 - [Pairing Your Outfit And Perfume For The Gym](docs/poem-1851.mp3)
 - [Glass Half Full, Grasshopper](docs/poem-1850.mp3)
