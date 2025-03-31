@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Minimalist Bodybuilding Gadgets That Enhance Your Workout And Stay Out Of Your Way](docs/poem-1855.mp3)
 - [Don’t Sit At The Gym](docs/poem-1854.mp3)
 - [Don't Let Fake Education Get To You](docs/poem-1853.mp3)
 - [You Are Not A Worker, Or; For All The Good That Is Left](docs/poem-1852.mp3)
