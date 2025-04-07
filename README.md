@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [You Are Royalty; Or, Your Extended Family](docs/poem-1862.mp3)
 - [An Tiny Note On Artificial Intelligence Teachers vs. Standardized Education](docs/poem-1861.mp3)
 - [Wake Up, It's Time For School](docs/poem-1860.mp3)
 - [The Light Of United States Of America - An Important Reminder From Abraham Lincoln](docs/poem-1859.mp3)
